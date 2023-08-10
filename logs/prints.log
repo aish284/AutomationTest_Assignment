@@ -1,0 +1,2 @@
+19:27:14.950 [TestNG-test=Test Cases-1] INFO  testCases.Verify_Weather_Forecast_API_Response - Verifying the weather data received in response should be for 15 Days
+19:27:20.315 [TestNG-test=Test Cases-1] INFO  testCases.Verify_Weather_Forecast_API_Response - 15 days weather data is received in response successfully with temperature values as - [29.5, 29.4, 30.0, 28.7, 26.7, 27.6, 28.2, 28.9, 30.2, 29.8, 26.0, 28.6, 29.4, 28.0, 27.6]

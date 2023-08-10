@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TestCases>
+
+<TC1_Weather_Data>
+		<location>Chandigarh</location>
+		<current_Subtitle1>Temp</current_Subtitle1>
+		<current_Subtitle2>Rain</current_Subtitle2>
+		<forecast_Heading1>Currently</forecast_Heading1>
+		<forecast_Heading2>3 Day outlook</forecast_Heading2>
+		<forecast_Heading3>Hourly forecast</forecast_Heading3>
+		<forecast_Heading4>Long term outlook</forecast_Heading4>
+</TC1_Weather_Data>
+
+<TC2_Weather_Data>
+	<location>Chandigarh</location>
+	<resolvedAdd>Chandigarh, CH, India</resolvedAdd>
+	<description>Similar temperatures continuing with a chance of rain multiple days.</description>
+
+</TC2_Weather_Data>
+	
+</TestCases>

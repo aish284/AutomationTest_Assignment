@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Automation" parallel="classes" thread-count="1">
+
+  <test name="Test Cases">
+  	<classes>
+  	   
+     	<class name="testCases.Verify_City_Weather_Forecast"/>
+        <class name="testCases.Verify_Weather_Forecast_API_Response"/>
+      
+      
+      
+      
+      
+     
+          
+  	</classes>
+  </test>
+  
+</suite>

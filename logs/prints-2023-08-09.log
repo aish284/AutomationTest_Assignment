@@ -1,0 +1,3 @@
+23:56:14.761 [TestNG-test=Regression Cases-1] INFO  testCases.Verify_City_Weather_Forecast - Weather Forecast page for entered city is displayed to the user successfully with heading as - Weather Forecast for Chandigarh
+23:56:14.764 [TestNG-test=Regression Cases-1] INFO  testCases.Verify_City_Weather_Forecast - Verifying that 15-Day Forecast option is active by default on navigation to Weather Forecast page
+23:56:14.782 [TestNG-test=Regression Cases-1] INFO  testCases.Verify_City_Weather_Forecast - 15-Day Forecast option is selected on default when user gets navigated to Weather Forecast page
